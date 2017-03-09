@@ -23,10 +23,9 @@
         enableHtml: false,
         fullStyle: [
           `/*
-* Inspired by http://strml.net/
-* 大家好，我是方方 
-* 二月了，好多公司都在招聘，你是不是也在准备简历呀。
-* 说做就做，我也来写一份简历！
+* Inspired by https://github.com/jirengu-inc/animating-resume
+* 大家好，我是pastor
+* vue-简历简易Demo.
 */
 
 /* 首先给所有元素加上过渡效果 */
@@ -117,34 +116,32 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `王洪磊
 ----
 
-资深前端工程师，资深前端讲师，现在在 [饥人谷](http://jirengu.com) 教前端课程。
+老菜鸟一枚，现在在 北京焰火工坊科技有限公司(http://www.firesvr.com) 担任前端工程师
 
 技能
 ----
 
 * 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
+* 自动化开发（Gulp,Webpack）
+* Vue.js 开发
+*..
+*..
+*..
+*(learning...)
 
 工作经历
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+1. 北京焰火工坊科技有限公司(http://www.firesvr.com)
+2. 北京即买送科技有限公司（公司倒闭了，网址就不写了）
 
 链接
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
-
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+* [GitHub](https://github.com/whl19191)
 
 `
       }
