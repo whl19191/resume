@@ -2,9 +2,10 @@
 
 > This is my resume
 
-请使用最新版本chrome，太低版本不支持await。
+请使用最新版本chrome(55.以上)，太低版本不支持await。
 [预览](https://whl19191.github.io/dist/)
 
+[Inspired by https://github.com/jirengu-inc/animating-resume](https://github.com/jirengu-inc/animating-resume)
 ## 使用方法
 
 ``` bash
