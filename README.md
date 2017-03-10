@@ -2,6 +2,7 @@
 
 > This is my resume
 
+请使用最新版本chrome，太低版本不支持await。
 [预览](https://whl19191.github.io/dist/)
 
 ## 使用方法
